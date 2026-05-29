@@ -1,0 +1,16 @@
+# Jarvis AI Bot - Python Dependencies
+# No external dependencies required for basic version
+# Optional packages for enhancements:
+
+# For voice recognition and text-to-speech (optional):
+# SpeechRecognition==3.10.0
+# pyttsx3==2.90
+
+# For weather integration (optional):
+# requests==2.28.0
+
+# For advanced NLP (optional):
+# nltk==3.8.1
+
+# For API integration (optional):
+# python-dotenv==0.21.0
